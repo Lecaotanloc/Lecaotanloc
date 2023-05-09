@@ -6,3 +6,5 @@ if 5 < 2:
     print("Hello x2")
 else: 
     print("Haf ngu ngok")
+    
+print("Nothing here")
